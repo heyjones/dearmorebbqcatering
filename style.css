@@ -59,6 +59,7 @@ ul.menu{
 		ul.menu li span {
 		    font-weight: 400;
 		    float: right;
+		    display: none;
 		}
 
 .header{
